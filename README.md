@@ -1,14 +1,15 @@
-# Nome do Projeto
+# Marvel Characters (Personagens da Marvel)
 
-Descrição breve do projeto.
+Visualização dos Personagens da Marvel através do consumo da [API Pública fornecida pela Marvel Comics](https://developer.marvel.com/documentation/getting_started).
+
 
 ## Tecnologias Utilizadas
 
 - **TypeScript**
-- **React**:
-- **Vite**:
-- **Chakra UI**: 
-- **Axios**: 
+- **React**
+- **Vite**
+- **Chakra UI**
+- **Axios**
 - **Vercel**
 
 ## Passo a Passo para Instalação e Execução do Projeto
@@ -39,7 +40,7 @@ npm run build
 Acesse o projeto no seu navegador em http://localhost:3000 (ou outra porta configurada).
 
 ## Link do Deploy do Projeto
-[Vercel:](https://marvel-characters-six.vercel.app/)
+[Link do Projeto:](https://marvel-characters-six.vercel.app/)
 
 
 
